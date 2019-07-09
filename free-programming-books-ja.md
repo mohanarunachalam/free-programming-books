@@ -39,7 +39,6 @@
 * [JavaScript](#javascript)
   * [Angular.js](#angularjs)
   * [Backbone.js](#backbonejs)
-  * [D3.js](#d3js)
   * [jQuery](#jquery)
   * [Node.js](#nodejs)
   * [React](#react)
@@ -91,7 +90,7 @@
 
 * [DirectX を使った初めての Windows ストア アプリの作成](https://msdn.microsoft.com/ja-jp/library/windows/apps/br229580.aspx) - MSDN Library
 * [GLUTによる「手抜き」OpenGL入門](http://www.wakayama-u.ac.jp/~tokoi/opengl/libglut.html) - 床井浩平
-* [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/OpenGLES_ProgrammingGuide.pdf) - Apple Developer (PDF)
+* [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML)
 * [はじめてのBlenderアドオン開発](https://nutti.gitbooks.io/introduction-to-add-on-development-in-blender/) - nutti
 * [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
 
@@ -143,7 +142,7 @@
 * [組込みシステムの安全性向上の勧め（機能安全編）](http://www.ipa.go.jp/files/000005118.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発におけるプロジェクトマネジメント導入の勧め](http://www.ipa.go.jp/files/000005105.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め [バグ管理手法編]](http://www.ipa.go.jp/files/000027629.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア開発における品質向上の勧め [ユーザビリティ編] ](http://www.ipa.go.jp/files/000005114.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [組込みソフトウェア開発における品質向上の勧め [ユーザビリティ編]](http://www.ipa.go.jp/files/000005114.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め [設計モデリング編]](http://www.ipa.go.jp/files/000005113.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め（コーディング編）](http://www.ipa.go.jp/files/000005106.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め［テスト編～事例集～］](http://www.ipa.go.jp/files/000005149.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
@@ -170,7 +169,7 @@
 
 #### 機械学習
 
-* [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/index.html#table-of-contents) - [Jubatus チーム](http://jubat.us/ja/aboutus.html)
+* [Jubatus : オンライン機械学習向け分散処理フレームワーク](http://jubat.us/ja/index.html#table-of-contents)
 * [Mahoutで体感する機械学習の実践](http://gihyo.jp/dev/serial/01/mahout) - やまかつ
 * [機械学習 はじめよう](http://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
 
@@ -197,6 +196,7 @@
 * [Android Open Text book](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 * [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 * [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - id:nobuoka
+* [AndroidTraining](https://mixi-inc.github.io/AndroidTraining/) - mixi, Inc.
 * [コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳](http://www.textdrop.net/android/code-style-ja.html) - Android Open Source Project, Takashi Sasai(翻訳)
 
 
@@ -209,7 +209,7 @@
 
 ### AWK
 
-* [AWK の第一歩](http://lagendra.s.kanazawa-u.ac.jp/ogurisu/manuals/awk/intro/index.html) - 小栗栖修
+* [AWK の第一歩](http://lagendra.w3.kanazawa-u.ac.jp/ogurisu/manuals/awk/index.html) - 小栗栖修
 * [AWK リファレンス](http://shellscript.sunone.me/awk.html) - SUNONE
 * [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
 
@@ -293,7 +293,6 @@
 
 ### Erlang
 
-* [Learn you some Erlang for great good!](http://www.ymotongpoo.com/works/lyse-ja/)
 * [お気楽 Erlang プログラミング入門](http://www.geocities.jp/m_hiroi/func/erlang.html) - 広井誠
 
 
@@ -320,7 +319,6 @@
 
 ### Groovy
 
-* [Groovy入門](http://www.oki-osk.jp/esc/groovy/) - OKIソフトウェア
 * [JGGUG G*Magazine](http://grails.jp/g_mag_jp/) - JGGUG(日本Grails/Groovyユーザーグループ) (PDF, EPUB)
 
 
@@ -353,16 +351,15 @@
 ### iOS
 
 * [Cocoa Programming Tips 1001](http://hmdt.jp/tips/cocoa/index.html) - 木下誠
-* [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhoneAppProgrammingGuide.pdf) - Apple Developer (PDF)
+* [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF)
 * [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp) - Clay Allsopp, RubyMotion JP(翻訳)
-* [初めての iOS アプリケーション](https://developer.apple.com/jp/devcenter/ios/library/documentation/iPhone101.pdf) - Apple Developer (PDF)
 
 
 ### Java
 
 * [Java基礎文法最速マスター](http://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - id:nattou\_curry
 * [お気楽 Java プログラミング入門](http://www.geocities.jp/m_hiroi/java/index.html) - 広井誠
-* [頑健なJavaプログラムの書き方](http://www.alles.or.jp/~torutk/oojava/codingStandard/writingrobustjavacode.html) - Scott W. Ambler, 高橋徹(翻訳)
+* [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, 高橋徹(翻訳) (PDF)
 
 
 ### JavaScript
@@ -374,7 +371,6 @@
 * [JavaScript Programming](http://www.geocities.jp/m_hiroi/light/javascript.html) - 広井誠
 * [JavaScript Promiseの本](http://azu.github.io/promises-book/) - azu
 * [JavaScript style guide](https://developer.mozilla.org/ja/docs/JavaScript_style_guide) - MDN
-* [JavaScript によるイベントドリブン](https://github.com/hatena/Hatena-Textbook/blob/master/javascript-event-driven.md) - はてな教科書
 * [JavaScript 基礎文法最速マスター](http://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
@@ -395,11 +391,6 @@
 #### Backbone.js
 
 * [Backboneドキュメント日本語訳](https://github.com/enja-oss/Backbone) - Jeremy Ashkenas, @studiomohawk(監訳)
-
-
-#### D3.js
-
-* [D3 チュートリアル](http://ja.d3js.info/alignedleft/tutorials/d3/) - Scott Murray, h.sakai(翻訳)
 
 
 #### jQuery
@@ -423,7 +414,7 @@
 
 ### Julia
 
-* [Julia 0.3.8](http://stat.biopapyrus.net/julia/) - 孫建強
+* [Julia 0.3.8](https://stats.biopapyrus.jp/julia) - 孫建強
 * [Julia Language Programming](http://www.geocities.jp/m_hiroi/light/julia.html) - 広井誠
 * [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
 
@@ -479,19 +470,14 @@
 * [Objective-C 2.0 基礎文法最速マスター](http://marycore.jp/prog/objective-c/basic-syntax/) - @_marycore
 * [Objective-C によるプログラミング](https://developer.apple.com/jp/devcenter/ios/library/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
 * [Objective-C プログラミングの概念](https://developer.apple.com/jp/devcenter/ios/library/documentation/CocoaEncyclopedia.pdf) - Apple Developer (PDF)
-* [Objective-C プログラミング言語](https://developer.apple.com/jp/devcenter/ios/library/documentation/ObjC.pdf) - Apple Developer (PDF)
+* [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
 * [Objective-C 最速基礎文法マスター](http://d.hatena.ne.jp/fn7/20100203/1265207098) -id:fn7
 
 
 ### OCaml
 
-* [Objective Caml 入門](http://www.fos.kuis.kyoto-u.ac.jp/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
+* [Objective Caml 入門](https://web.archive.org/web/20161128072705/http://www.fos.kuis.kyoto-u.ac.jp:80/~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
 * [お気楽 OCaml プログラミング入門](http://www.geocities.jp/m_hiroi/func/ocaml.html) - 広井誠
-
-
-### openFrameworks
-
-* [Beyond Interaction - メディアアートのためのopenFrameworksプログラミング入門](http://download.bnn.co.jp/download/beyond_interaction/BNN_BeyondInteraction.pdf) - 田所淳・比嘉了・久保田晃弘 (PDF) (※書籍を作者がCCライセンスで公開)
 
 
 ### Perl
@@ -540,7 +526,7 @@
 * [Notes on scientific computing with python](http://japanichaos.appspot.com) - 花田康高
 * [php プログラマのための Python チュートリアル](http://phpy.readthedocs.org/en/latest/) - INADA Naoki
 * [Python 2.7.2 ドキュメント日本語訳](http://docs.python.jp/2.7/) - Python Software Foundation
-* [Python 3.4 / NumPy / SciPy](http://stat.biopapyrus.net/python/) - 孫建強
+* [Python 3.4](https://stats.biopapyrus.jp/python) - 孫建強
 * [Python Scientific Lecture Notes](http://turbare.net/transl/scipy-lecture-notes/) - 打田旭宏(翻訳)
 * [python で心理実験](http://www.s12600.net/psy/python/) - 十河宏行
 * [Python で音声信号処理](http://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
@@ -564,10 +550,8 @@
 
 ### R
 
+* [R](https://stats.biopapyrus.jp/r) - 孫建強
 * [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
-* [R グラフィックス](http://stat.biopapyrus.net/graph/) - 孫建強
-* [R プログラミング](http://stat.biopapyrus.net/r/) - 孫建強
-* [R プログラミング / 発展編](http://stat.biopapyrus.net/dev/) - 孫建強
 * [R 入門](http://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith and the R Development Core Team, 間瀬茂(翻訳) (PDF)
 * [R 基本統計関数マニュアル](http://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) - 間瀬茂 (PDF)
 * [R 言語定義](http://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) - R Development Core Team, 間瀬茂(翻訳) (PDF)
@@ -617,7 +601,7 @@
 
 ### Scratch
 
-* [炎の型 With Scratch (ゲームプログラム入門) ](https://kyorohiro.gitbooks.io/doc_scratch/) - kyorohiro
+* [炎の型 With Scratch (ゲームプログラム入門)](https://kyorohiro.gitbooks.io/doc_scratch/) - kyorohiro
 
 
 ### sed
@@ -627,7 +611,6 @@
 
 ### Smalltalk
 
-* [GNU Smalltalk Tutorial](http://gst.plasticheart.info/tutorial-c84.html) -  @PLHX
 * [自由自在 Squeakプログラミング](http://swikis.ddo.jp/squeak/13) - 梅澤真史
 
 
@@ -641,7 +624,8 @@
 ### Standard ML
 
 * [お気楽 Standard ML of New Jersey 入門](http://www.geocities.jp/m_hiroi/func/index.html#sml) - 広井誠
-* [プログラミング言語SML#解説](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/1.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
+* [プログラミング言語SML#解説](http://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
+* [プログラミング言語Standard ML入門](http://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf) - 大堀淳 (PDF)
 
 
 ### Swift
@@ -652,7 +636,6 @@
 ### Tcl/Tk
 
 * [Tcl/Tk お気楽 GUI プログラミング](http://www.geocities.jp/m_hiroi/tcl_tk_doc/tcltk_doc.html) - 広井誠
-* [Tcl/TkでWindowsプログラミング](http://homepage3.nifty.com/kaku-chan/tcl_tk/) - KAKU-Chan
 * [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) - 只木進一 (PDF)
 
 
